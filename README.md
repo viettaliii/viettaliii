@@ -15,7 +15,7 @@
 <a href="#" target="_blank">
   <img align="right" alt="Viet Nguyen | Facebook" width="30px" src="https://cdn.worldvectorlogo.com/logos/facebook-3-3.svg" /></a>
   
-<a href="https://vk.com/vietz00" target="_blank">
+<a href="#" target="_blank">
   <img align="right" alt="Viet Nguyen | VKontakte" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" /></a>
   
 <a href="#" target="_blank">
