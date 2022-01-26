@@ -10,9 +10,6 @@
   <img align="right" alt="Viet Nguyen | VKontakte" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
   
 <a href="#" target="_blank">
-  <img align="right" alt="Viet Nguyen | Notion" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" /></a>
-  
-<a href="#" target="_blank">
   <img align="right" alt="Viet Nguyen | Facebook" width="20px" src="https://cdn.worldvectorlogo.com/logos/facebook-3-3.svg" /></a>
   
 <a href="#" target="_blank">
