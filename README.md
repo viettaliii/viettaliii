@@ -19,9 +19,6 @@
   <img align="right" alt="Viet Nguyen | Youtube" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/480px-YouTube_social_red_circle_%282017%29.svg.png" /></a>
   
  <a href="#" target="_blank">
-  <img align="right" alt="Viet Nguyen | Twitter" width="20px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/296px-Twitter_bird_logo_2012.svg.png" /></a>
-  
- <a href="#" target="_blank">
   <img align="right" alt="Viet Nguyen | Linkedin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" /></a>
   
 ## Connect:
