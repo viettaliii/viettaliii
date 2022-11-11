@@ -4,7 +4,7 @@
 | --- | --- |
 | <a href="https://github.com/vietzettt" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietzettt&theme=vue-dark&hide_border=true&count_private=true" /></a> |<a href="https://github.com/vietzettt" target="_blank"><img align="center" alt="Coding" width="350px" src="https://github.com/vietzettt/vietzettt/blob/1f965a9c5c4816d71c409c85888ac4ba28bdc734/programming.gif" style="vertical-align:middle;margin:0px 0px"></a> |
 
-[![](dino.gif)](https://github.com/vietzettt)
+<!-- [![](dino.gif)](https://github.com/vietzettt)
 
 <a href="#" target="_blank">
   <img align="right" alt="Viet Nguyen | VKontakte" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>
@@ -21,4 +21,4 @@
  <a href="#" target="_blank">
   <img align="right" alt="Viet Nguyen | Linkedin" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" /></a>
   
-## Connect:
+## Connect: -->
